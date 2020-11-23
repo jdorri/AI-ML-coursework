@@ -6,7 +6,7 @@ This repository contains a selection of completed coursework from the [MSc in Ar
 
 | Folder | Description | Languages/libraries | Grade | 
 | --- | --- | --- | --- |
-| Algorithmic fairness | Using regularisation to optimise for both fairness and accuracy after removing bias. | Python, Scikit-learn, AIF360, Pandas | 78/100 | 
+| Algorithmic fairness | Using regularisation to optimise for both fairness and accuracy after removing algorithmic bias. | Python, Scikit-learn, AIF360, Pandas | 78/100 | 
 | Component analysis and support vector machines | Implementation of dimensionality reduction techniques (PCA, LDA) and solving the SVM optimisation problem. | Matlab, Quadprog | 92/100 | 
 | Deep learning | Implementation of generative (VAE, DCGAN) and recurrent (RNN, GRU, LSTM) deep learning models. | Python, PyTorch | 95/100 | 
 | Kernel methods | Implementation of a classifier with Fourier features and proofs of the problem's convexity. | Matlab | 97/100 |
