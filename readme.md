@@ -10,9 +10,9 @@ This repository contains a selection of completed coursework from the [MSc in Ar
 | Component analysis and SVMs | Implementation of dimensionality reduction techniques (PCA, whitened PCA, LDA) and solving the SVM optimisation problem. | Matlab, Quadprog | 92/100 | 
 | Convex optimisation | Implementation of a non-linear classifier with Fourier features and proofs of the problem's convexity. | Matlab | 97/100 |
 | Deep learning | Implementation of generative (VAE, DCGAN) and recurrent (RNN, GRU, LSTM) deep learning models. | Python, PyTorch | 95/100 | 
-| Machine learning for imaging | An age regression pipeline using volumetric, pre-processed, and raw pixel features extracted from brain MRIs.| Python, PyTorch, Scikit-learn, SimpleITK | 71/100 |
+| Machine learning for imaging | An age regression pipeline using volumetric, pre-processed, and raw pixel features extracted from brain MRI data.| Python, PyTorch, Scikit-learn, SimpleITK | 71/100 |
 | Machine translation | Developing regression models (non-neural, recurrent, transformer) to predict the quality of machine-translated sentences. | Python, PyTorch, Scikit-learn, Transformers | 80/100 |
-| Neural networks | Designing a low-level neural network library, using a neural network to predict insurance claims, and competing in a simulated AI market. | Python, NumPy | 95/100 |
+| Neural networks | Designing a low-level neural network library, using a neural network to predict insurance claims, and competing in a simulated AI market. | Python, NumPy, Scikit-learn, Keras | 95/100 |
 
 ## Usage 
 
