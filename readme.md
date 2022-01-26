@@ -5,7 +5,7 @@ This repository contains a sample of completed coursework from the [MSc in Artif
 ## Details 
 
 | Folder | Description | Languages/libraries | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Algorithmic fairness | Using regularisation to optimise for both fairness and accuracy after removing algorithmic bias. | Python, Scikit-learn, AIF360, Pandas |
 | Component analysis and SVMs | Implementation of dimensionality reduction techniques (PCA, whitened PCA, LDA) and solving the SVM optimisation problem. | Matlab, Quadprog |
 | Convex optimisation | Implementation of a non-linear classifier with Fourier features and proofs of the problem's convexity. | Matlab |
